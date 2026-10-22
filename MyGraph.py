@@ -6,3 +6,4 @@ plt.plot(x, np.sin(x))
 plt.show()
 
 print("I am learning how to use Git and GitHub!")
+print('Hello there')
